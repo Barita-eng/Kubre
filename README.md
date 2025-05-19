@@ -1,2 +1,2 @@
-# Kubre
+// Kubre
 Kababra
